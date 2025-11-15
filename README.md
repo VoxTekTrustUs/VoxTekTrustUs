@@ -1,6 +1,9 @@
-# TrustUs
-## TrustUs
+# TrustME
+## JustME
 ### TrustUs
 #### TrustUs
 
-<img width="809" height="690" alt="image" src="https://github.com/user-attachments/assets/4a10a84b-aefb-4a56-b5c8-9c8c4f643650" />
+<img width="389" height="330" alt="image" src="https://github.com/user-attachments/assets/6d74140a-cf6c-4653-a409-0e66f6134028" />
+
+
+
